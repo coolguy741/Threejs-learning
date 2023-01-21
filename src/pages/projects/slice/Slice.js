@@ -36,6 +36,7 @@ import {
   ProjectSectionText,
   ProjectTextRow,
 } from 'layouts/Project';
+
 import { Fragment } from 'react';
 import { media } from 'utils/style';
 import styles from './Slice.module.css';
